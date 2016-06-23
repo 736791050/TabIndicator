@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTabIndicator">
+        <attr name="textNormalColor" format="color"/>
+        <attr name="textSelectedColor" format="color"/>
+        <attr name="textNormalSize" format="dimension"/>
+        <attr name="textSelectedSize" format="dimension"/>
+        <attr name="backGroundColor" format="color"/>
+        <attr name="indicatorColor" format="color"/>
+        <attr name="indicatorWidth" format="dimension"/>
+    </declare-styleable>
+</resources>
